@@ -1,5 +1,4 @@
-# **📌 Wholesale-Customer-Segmentation-and-Spending-Behavior-Analysis-By-ML
-**  
+# **📌 Wholesale-Customer-Segmentation-and-Spending-Behavior-Analysis-By-ML**  
 
 ## **📑 Table of Contents**  
 1. [Overview](#overview)  
