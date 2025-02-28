@@ -65,12 +65,13 @@ The dataset is sourced from the **UCI Machine Learning Repository**:
 ```bash
 📁 Wholesale-Customer-Segmentation-and-Spending-Behavior-Analysis-By-ML
 │── 📁 data                  # Dataset folder  
-│   ├── Wholesale_Customers.csv   # Dataset file  
+│   ├── Wholesale customers data.csv   # Dataset file  
 │── 📁 images                # Visualization images
 │── 📊 Logistic_Regression_Wholesale_Customers.ipynb  # Logistic Regression Model  
 │── 📊 K_Means_Clustering_Wholesale_Customers.ipynb   # K-Means Clustering Model  
-│── 📄 README.md            # Project Documentation  
-
+│── 📄 README.md            # Project Documentation
+├── 📦 requirements.txt                        # List of required Python libraries
+└── 📜 LICENSE                                 # License for the repository
 ```
 
 ---
